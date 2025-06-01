@@ -1,6 +1,6 @@
 ---
 title: Welcome to Quartz
-draft: false
+draft: true
 ---
 
 This is a blank Quartz installation.
